@@ -16,7 +16,7 @@ Data Cleaning:
 -   Some artists and songs were removed.
 
 Data fields, **types**, and definitions:
-- ts - This field is a timestamp indicating when the track stopped playing in UTC (Coordinated Universal Time). The order is year, month and day followed by a timestamp in military time
+- ts - This field is a **timestamp** indicating when the track stopped playing in UTC (Coordinated Universal Time). The order is **year**, **month** and **day** followed by a **timestamp** in **military tim**e
 - username - This field is your Spotify username.
 - platform - This field is the platform used when streaming the track (e.g. Android OS, Google Chromecast).
 - ms_played - This field is the number of **milliseconds** the stream was played.
@@ -37,6 +37,6 @@ A Spotify Episode URI is a resource identifier that you can enter, for example, 
 - shuffle - This field has the value True or False depending on if shuffle mode was used when playing the track.
 - skipped - This field indicates if the user skipped to the next song
 - offline - This field indicates whether the track was played in offline mode (“True”) or not (“False”).
-- offline_timestamp - This field is a timestamp of when offline mode was used, if used.
+- offline_timestamp - This field is a **timestamp** of when offline mode was used, if used.
 - incognito_mode - This field indicates whether the track was played during a private session (“True”) or not (“False”).
 

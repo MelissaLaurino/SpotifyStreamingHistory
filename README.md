@@ -8,7 +8,7 @@ It is recommended to read the documention provided by Spotify before beginning t
 - Understanding your data: <https://support.spotify.com/us/article/understanding-my-data/>
 
 Account user: Melissa Laurino <br>
-Data download type: Lifetime (Download types are available as 2 weeks or Lifetime)
+Data download type: Lifetime (Download types are available as 2 weeks or Lifetime) <br>
 Data subset: 2012-2024 <br>
 Date of access: February 1, 2025 <br>
 

@@ -6,9 +6,9 @@ Data was extracted from account user Melissa Laurino using the Download your Dat
 It is recommended to read the documention provided by Spotify before beginning the data exploration.
 - Understanding your data: <https://support.spotify.com/us/article/understanding-my-data/>
 
-Account user: Melissa Laurino
-Data subset: 2012-2024
-Date of access: February 1, 2025
+Account user: Melissa Laurino <br>
+Data subset: 2012-2024 <br>
+Date of access: February 1, 2025 <br>
 
 Data Cleaning:
 - Original .json files were converted to .csv in R.

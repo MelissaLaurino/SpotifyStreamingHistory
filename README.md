@@ -1,12 +1,14 @@
 # Spotify Streaming History
 ## A "Lifetime" of Spotify data and streaming history from 2012-2024
 
-Data was extracted from account user Melissa Laurino using the Download your Data tool on [www.Spotify.com](www.Spotify.com).
+Data was extracted from account user Melissa Laurino using the Download your Data tool on www.Spotify.com.
+For step by step instructions on how to download your data, visit: https://support.stats.fm/docs/import/spotify-import/
 
 It is recommended to read the documention provided by Spotify before beginning the data exploration.
 - Understanding your data: <https://support.spotify.com/us/article/understanding-my-data/>
 
 Account user: Melissa Laurino <br>
+Data download type: Lifetime (Download types are available as 2 weeks or Lifetime)
 Data subset: 2012-2024 <br>
 Date of access: February 1, 2025 <br>
 
